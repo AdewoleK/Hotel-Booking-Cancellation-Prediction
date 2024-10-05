@@ -1,1 +1,12 @@
+![hotel_booking_cancellation_prediction ipynb - Visual Studio Code 10_4_2024 11_16_52 PM](https://github.com/user-attachments/assets/a4bb64e6-30a7-4295-b816-a51c8c76f24b)
+![10](https://github.com/user-attachments/assets/eb8e6124-f3d0-4e31-998e-5197a058efca)
+![9](https://github.com/user-attachments/assets/c562a5fd-c96d-4f60-bfda-a53ff760be4d)
+![8](https://github.com/user-attachments/assets/f2cea4dc-d592-45be-81a4-75bd1f44d1a4)
+![7](https://github.com/user-attachments/assets/e2846d89-b935-43ff-9d69-80d2631997c9)
+![6](https://github.com/user-attachments/assets/6dd1e41a-6b22-4300-8407-f50d8082ff7a)
+![5](https://github.com/user-attachments/assets/08a32ee1-7558-4079-92c2-149197bbfb85)
+![4](https://github.com/user-attachments/assets/7ad27cf3-9acc-4bee-ad0f-3f0f57251ed2)
+![3](https://github.com/user-attachments/assets/e88be942-b512-41de-beca-cdd3e6b5ec26)
+![2](https://github.com/user-attachments/assets/da8d4fe6-4cd3-42fd-a7db-9ba4807fc053)
+![1](https://github.com/user-attachments/assets/8f05bfa4-e76c-4062-89e1-628cf9f8e9ec)
 # Hotel-Booking-Cancellation-Prediction
